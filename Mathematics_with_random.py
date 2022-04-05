@@ -3,6 +3,7 @@
 import random
 
 def multiplication(password):
+    """Produces 2 random numbers, muliplies them and compares it to the users input"""
     while password == 'yes':
         dif = input('Choose a difficulty hard(h) or easy(e):')
         if dif == 'h':
@@ -41,6 +42,7 @@ def multiplication(password):
             password = input('wanna play again types yes to continue no to cancel?:')
             return
 def addition(password):
+    """Produces 2 random numbers, adds them and compares it to the users input"""
     while password == 'yes':
         dif = input('Choose a difficulty hard(h) or easy(e):')
         if dif == 'h':
@@ -79,6 +81,7 @@ def addition(password):
             password = input('wanna play again types yes to continue no to cancel?:')
             return
 def subtraction(password):
+    """Produces 2 random numbers, subtracts them and compares it to the users input"""
     while password == 'yes':
         dif = input('Choose a difficulty hard(h) or easy(e):')
         if dif == 'h':
@@ -117,6 +120,7 @@ def subtraction(password):
             password = input('wanna play again types yes to continue no to cancel?:')
             return
 def division(password):
+    """Produces 2 random numbers, divides them and compares it to the users input"""
     while password == 'yes':
         dif = input('Choose a difficulty hard(h) or easy(e):')
         if dif == 'h':
