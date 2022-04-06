@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Camron Gloudon, I'm 16.
--I'm interested in anything and eveything computer(ized). From Coding to Animation to...\ 
--I'm currently learning Python.
+- 👋 Hey, I'm Camron, I'm 16.
+Interested in anything and eveything computer(ized). Want to learn Data Science/ Software Engineering 
+So I'm currently learning Python.
 
